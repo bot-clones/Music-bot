@@ -1,7 +1,8 @@
 # Music-bot
 
 Help command
-![https://i.imgur.com/ifKsG3H.png]
+
+![Help command](https://i.imgur.com/ifKsG3H.png)
 
 A complete code to download for a music bot. Using a module (discord-player) 🎧
 
